@@ -1,2 +1,2 @@
-# instagram-clone
+# instagram login page clone
 
